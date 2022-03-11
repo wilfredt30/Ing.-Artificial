@@ -1,0 +1,41 @@
+LOCATION Country INDICATOR Indicator2 MEASURE Measure3 INEQUALITY Inequality4 Unit Code Unit PowerCode Code PowerCode 2015
+AUS,Australia,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,6.7
+AUT,Austria,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,12.2
+BEL,Belgium,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,12.8
+CAN,Canada,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,7.1
+CZE,Czech Republic,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,17
+DNK,Denmark,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,10
+FIN,Finland,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,5.5
+FRA,France,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,11.4
+DEU,Germany,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,12
+GRC,Greece,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,14.5
+HUN,Hungary,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,16.7
+ISL,Iceland,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,6.4
+IRL,Ireland,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,7.8
+ITA,Italy,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,15.9
+JPN,Japan,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,13.7
+KOR,Korea,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,27.3
+LUX,Luxembourg,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,10
+MEX,Mexico,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,20.3
+NLD,Netherlands,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,12.2
+NZL,New Zealand,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,6
+NOR,Norway,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,6.7
+POL,Poland,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,22.8
+PRT,Portugal,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,8.3
+SVK,Slovak Republic,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,18.5
+ESP,Spain,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,10
+SWE,Sweden,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,5.8
+CHE,Switzerland,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,10.1
+TUR,Turkey,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,27.1
+GBR,United Kingdom,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,10.1
+USA,United States,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,7.7
+BRA,Brazil,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,11.7
+CHL,Chile,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,23.4
+EST,Estonia,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,5.9
+ISR,Israel,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,19.7
+LVA,Latvia,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,12.7
+RUS,Russia,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,11.8
+SVN,Slovenia,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,17
+ZAF,South Africa,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,28.5
+COL,Colombia,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,22.6
+LTU,Lithuania,EQ_AIRP,Air pollution,L,Value,TOT,Total,MICRO_M3,Micrograms per cubic metre,0,Units,10.5
